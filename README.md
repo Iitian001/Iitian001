@@ -43,7 +43,7 @@
 
 <div align="center">
   <a href="https://github.com/Iitian001">
-    <img src="https://github-readme-stats.vercel.app/api?username=Iitian001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" width="48%" alt="Iitian001's GitHub stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Iitian001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" width="48%" alt="Iitian001's GitHub stats" />
   </a>
   <a href="https://github.com/Iitian001">
     <img src="https://streak-stats.demolab.com/?user=Iitian001&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="Iitian001's GitHub streak" />
