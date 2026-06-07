@@ -10,7 +10,7 @@
   <br/>
 
   <p align="center">
-    <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+    <a href="https://instagram.com/16_hreyash"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
     <a href="https://linkedin.com/in/shreyash-mishra-338180381"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:iitianshreyash01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
@@ -42,8 +42,12 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iitian001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iitian001&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  <a href="https://github.com/Iitian001">
+    <img src="https://github-readme-stats.vercel.app/api?username=Iitian001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" width="48%" alt="Iitian001's GitHub stats" />
+  </a>
+  <a href="https://github.com/Iitian001">
+    <img src="https://streak-stats.demolab.com/?user=Iitian001&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="Iitian001's GitHub streak" />
+  </a>
 </div>
 
 <br/>
