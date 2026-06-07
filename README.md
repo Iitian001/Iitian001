@@ -52,9 +52,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iitian001/Iitian001/output/dist/snake-blue.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iitian001/Iitian001/output/dist/snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Iitian001/Iitian001/output/dist/snake-blue.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iitian001/Iitian001/output/snake-blue.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iitian001/Iitian001/output/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Iitian001/Iitian001/output/snake-blue.svg">
   </picture>
 </div>
 
