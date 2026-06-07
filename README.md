@@ -1,144 +1,64 @@
-<!-- ══════════════════════════════════════════════════════ -->
-<!--      💀  I I T I A N 0 0 1  —  SURVIVAL CODE HORROR  💀  -->
-<!-- ══════════════════════════════════════════════════════ -->
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Hi%20there,%20I'm%20Iitian001!%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20digital%20experiences%20with%20code&descAlignY=55&descAlign=50" width="100%" />
 
-<!-- ===== BLOODY GLITCH BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:000000,50:8B0000,100:FF0000&height=230&section=header&text=IITIAN001&fontSize=80&fontColor=ff0000&animation=fadeIn&fontAlignY=40&desc=💀%20YOU%20HAVE%20ENTERED%20THE%20CODE%20CRYPT%20💀&descAlignY=62&descSize=18&descColor=ffffff" width="100%"/>
+  <br/><br/>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0072FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
+  </a>
 
-<!-- ===== CORRUPTED TYPING ===== -->
-<img src="https://readme-typing-svg.demolab.com?font=Creepster&size=40&duration=2500&pause=600&color=FF0000&center=true&vCenter=true&width=700&height=80&lines=THE+DARKNESS+COMPILES...;SOMETHING+IS+IN+YOUR+CODEBASE;IT+KNOWS+YOU+ARE+HERE;D0+N0T+RUN+T#E+SCR1PT..." alt="Typing SVG" />
+  <br/>
 
+  <p align="center">
+    <a href="https://twitter.com/Iitian001"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+    <a href="https://linkedin.com/in/Iitian001"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 </div>
 
-<!-- ===== HAUNTED TERMINAL ===== -->
-<div align="center">
+<hr/>
 
-```diff
-╔════════════════════════════════════════════════════╗
-║  > booting nightmare.exe ...                         ║
-- ! WARNING: UNKNOWN ENTITY DETECTED IN /src           ║
-- ! 666 CORRUPTED FILES FOUND                           ║
-+ > player_soul ............... [ STILL ALIVE ]         ║
-+ > sanity ................. [ ▓▓▓▓░░░░░░ 40% ]          ║
-- ! whisper.log: "turn back... while you still can"     ║
-║  > PRESS ANY KEY TO DESCEND ▼                         ║
-╚════════════════════════════════════════════════════╝
-```
+### 👨‍💻 About Me
 
-</div>
-
----
-
-## 🩸 SURVIVOR PROFILE
-
-<div align="center">
-
-| 💀 ATTRIBUTE      | ☠️ STATUS                          |
-|:------------------|:-----------------------------------|
-| 🗡️ **CLASS**      | `Necro-Coder / Bug Exorcist`       |
-| 🔮 **ORIGIN**     | `Summoned from the IIT Crypt`      |
-| 🧟 **WEAKNESS**   | `Merge Conflicts at 3:00 AM`       |
-| 🕯️ **HP**         | `🩸🩸🩸🩸🩸🩸🖤🖤 75/100`              |
-| 🧠 **SANITY**     | `▓▓▓▓░░░░░░ 40% — slipping...`      |
-| 🌑 **CURSE**      | `Cannot stop pushing to main`      |
-| ⚰️ **DEATHS**     | `∞ (respawns on every git revert)` |
-
-</div>
-
-> 🔦 *"He doesn't sleep. He doesn't blink. He only... commits."*
-
----
-
-## 🕸️ CURSED ARSENAL — WEAPONS OF THE NIGHT
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-🐍_SUMMONED-8B0000?style=for-the-badge&logo=python&logoColor=red)
-![JavaScript](https://img.shields.io/badge/JavaScript-👻_HAUNTED-1a1a1a?style=for-the-badge&logo=javascript&logoColor=FFD700)
-![C++](https://img.shields.io/badge/C++-⚰️_FORBIDDEN-1a1a1a?style=for-the-badge&logo=cplusplus&logoColor=red)
-![React](https://img.shields.io/badge/React-🔮_POSSESSED-000000?style=for-the-badge&logo=react&logoColor=00ffff)
-![Linux](https://img.shields.io/badge/Linux-🐧_SHADOW-8B0000?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-🩸_BLOOD_PACT-000000?style=for-the-badge&logo=git&logoColor=red)
-
-</div>
-
----
-
-## ⚰️ CURSES BROKEN — DARK ACHIEVEMENTS
-
-<div align="center">
-
-| 🕯️ | RITUAL COMPLETED | SEAL |
-|:--:|:-----------------|:----:|
-| 🩸 | **Blood Streak** — 100 commits without sleep | ✅ |
-| 👁️ | **The Watcher** — Reviewed cursed legacy code | ✅ |
-| 🧟 | **Necromancer** — Revived a dead repository | ✅ |
-| 🔥 | **Demon Slayer** — Exorcised 666 bugs | ✅ |
-| 🌑 | **Into The Void** — Deployed on Friday 13th | ✅ |
-| 💀 | **Final Boss** — Survived production at 3AM | 🔒 |
-| 👹 | **The Forbidden Merge** — Touched `main` directly | ⚠️ |
-
-</div>
-
-> ☠️ *Each green square on the graph below... is a soul that didn't make it.*
-
----
-
-## 🔪 BLOODSTAINED SCOREBOARD
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iitian001&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=8B0000&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iitian001&layout=compact&theme=chartreuse-dark&border_color=8B0000&bg_color=000000&title_color=FF0000&text_color=ffffff"/>
+- 🔭 I’m currently working on **Full-Stack Web Development & Exciting Projects**
+- 🌱 I’m currently learning **Advanced System Design, Cloud Architecture, and Next.js**
+- 👯 I’m looking to collaborate on **Open Source Projects & Innovative Ideas**
+- 💬 Ask me about **JavaScript, Python, React, and Backend Tech**
+- ⚡ Fun fact: **I can debug code faster than I can make instant noodles!**
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Iitian001&theme=dark&border=8B0000&background=000000&fire=FF0000&currStreakLabel=FF0000&ring=FF0000&currStreakNum=ffffff" alt="cursed streak"/>
-
-</div>
-
----
-
-## 🐍 THE CRAWLING DARKNESS (CONTRIBUTION GRAVEYARD)
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
-
-> *It feeds on your commits. It never stops crawling.*
-
-<img src="https://raw.githubusercontent.com/Iitian001/Iitian001/output/snake-dark.svg" alt="the crawling thing" />
-
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,wasm" /><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,tailwind,bootstrap" /><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,bash,aws,gcp" />
 </div>
-
----
-
-## 🕯️ SUMMON ME (IF YOU DARE)
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/X-🦇_WHISPER-000000?style=for-the-badge&logo=x&logoColor=red)](https://twitter.com/Iitian001)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-⛓️_BOUND-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=8B0000)](https://linkedin.com/in/Iitian001)
-[![Discord](https://img.shields.io/badge/Discord-👁️_SÉANCE-1a1a1a?style=for-the-badge&logo=discord&logoColor=red)](https://discord.com)
-[![Portfolio](https://img.shields.io/badge/Crypt-🩸_ENTER-8B0000?style=for-the-badge&logo=githubpages&logoColor=red)](https://Iitian001.dev)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Iitian001&style=for-the-badge&color=8B0000&label=SOULS+TRAPPED+HERE)
-
-</div>
-
----
+### 📊 GitHub Analytics
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Iitian001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iitian001&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:FF0000,50:8B0000,100:000000&height=120&section=footer&text=YOU%20CANNOT%20ESCAPE%20THE%20COMMIT&fontSize=22&fontColor=ff0000&animation=fadeIn" width="100%"/>
+<br/>
 
-```diff
-- 💀 GAME OVER? NO. THE CODE NEVER DIES. 💀
-+ ⭐ Star my repos... or join them in the dark. ⭐
-```
+### 🐍 Contribution Graph
 
-*`> r3sp4wn1ng...`*
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iitian001/Iitian001/output/dist/snake-blue.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iitian001/Iitian001/output/dist/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Iitian001/Iitian001/output/dist/snake-blue.svg">
+  </picture>
+</div>
 
+<hr/>
+<div align="center">
+  <i>Made with ❤️ by Iitian001</i>
 </div>
