@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NEON VOID — Space Shooter</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #050510;
+    overflow: hidden;
+    font-family: 'Courier New', monospace;
+    color: #00f0ff;
+  }
+  canvas { display: block; }
+  #ui {
+    position: fixed;
+    top: 0; left: 0; width: 100%; height: 100%;
+    pointer-events: none;
+    z-index: 10;
+  }
+  .hud {
+    position: absolute;
+    text-shadow: 0 0 10px currentColor;
+    font-weight: bold;
+  }
+  #scoreHUD { top: 15px; left: 20px; font-size: 18px; }
+  #waveHUD { top: 15px; right: 20px; font-size: 18px; }
+  #healthHUD { bottom: 20px; left: 20px; font-size: 16px; }
+  #weaponHUD { bottom: 20px; right: 20px; font-size: 14px; }
+  #bossHP {
+    position: absolute; top: 50px; left: 50%; transform: translateX(-50%);
+    width: 400px; height: 8px; background: #222; border-radius: 4px;
+    display: none;
+  }
+  #bossHPfill {
+    height: 100%; width: 100%; background: #ff0055;
+    box-shadow: 0 0 15px #ff0055; border-radius: 4px; transition: width 0.1s;
+  }
+  #overlay {
+    position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+    background: rgba(0,0,0,0.75); display: flex;
+    flex-direction: column; align-items: center; justify-content: center;
+    pointer-events: auto; z-index: 20;
+  }
+  #overlay h1 {
+    font-size: 64px; color: #00f0ff;
+    text-shadow: 0 0 30px #00f0ff, 0 0 60px #00f0ff;
+    margin-bottom: 10px; letter-spacing: 6px;
+  }
+  #overlay p { color: #aaa; margin-bottom: 30px; font-size: 16px; }
+  #overlay button {
+    padding: 14px 50px; font-size: 20px;
+    background: transparent; border: 2px solid #00f0ff;
+    color: #00f0ff; cursor: pointer;
+    text-shadow: 0 0 10px #00f0ff;
+    box-shadow: 0 0 20px rgba(0,240,255,0.2);
+    transition: all 0.2s;
+  }
+  #overlay button:hover {
+    background: #00f0ff; color: #000;
+    box-shadow: 0 0 40px #00f0ff;
+  }
+  .controls-info {
+    margin-top: 20px; color: #555; font-size: 13px;
+  }
+</style>
+</head>
+<body>
+<canvas id="game"></canvas>
+<div id="ui">
+  <div class="hud" id="scoreHUD">SCORE: 0</div>
+  <div class="hud" id="waveHUD">WAVE 1</div>
+  <div class="hud" id="healthHUD">HP: ████████░░</div>
+  <div class="hud" id="weaponHUD">WEAPON: PULSE</div>
+  <div id="bossHP"><div id="bossHPfill"></div></div>
+</div>
+<div id="overlay">
+  <h1>NEON VOID</h1>
+  <p>SURVIVE THE INFINITE. DESTROY THE MACHINES.</p>
+  <button id="startBtn">START MISSION</button>
+  <div class="controls-info">
+    WASD / ARROWS — Move &nbsp;|&nbsp; MOUSE — Aim &nbsp;|&nbsp; CLICK — Shoot &nbsp;|&nbsp; SPACE — Dash
+  </div>
+</div>
+<script src="game.js"></script>
+</body>
+</html>
