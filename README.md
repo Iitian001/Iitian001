@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shreyash!;+Welcome+to+my+Profile!" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shreyash!;+Welcome+to+my+Profile!" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀 Full Stack Developer | 🧠 AI/Automation Enthusiast | ⚡ Open Source Contributor</h3>
@@ -8,12 +8,9 @@
 
 <div align="center">
   
-  🔭 I’m currently building **open-source projects & n8n automations**
-  
-  🌱 I’m diving deeper into **System Design, AI Agents & Cloud Architecture**
-  
-  💡 Ask me about **Python, Node.js, React, Docker, AWS & Automation**
-  
+  🔭 I’m currently building **open-source projects & n8n automations** <br>
+  🌱 I’m diving deeper into **System Design, AI Agents & Cloud Architecture** <br>
+  💡 Ask me about **Python, Node.js, React, Docker, AWS & Automation** <br>
   ⚡ Fun fact: *I post 10+ n8n templates daily!*
   
 </div>
@@ -48,7 +45,11 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Iitian001/Iitian001/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iitian001/Iitian001/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iitian001/Iitian001/output/github-contribution-grid-snake.svg">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Iitian001/Iitian001/output/github-contribution-grid-snake.svg" />
+  </picture>
   <br/><br/><br/>
 </div>
 
