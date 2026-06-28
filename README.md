@@ -8,9 +8,12 @@
 
 <div align="center">
   
-  🔭 I’m currently building **open-source projects & n8n automations** <br>
-  🌱 I’m diving deeper into **System Design, AI Agents & Cloud Architecture** <br>
-  💡 Ask me about **Python, Node.js, React, Docker, AWS & Automation** <br>
+  🔭 I’m currently building **open-source projects & n8n automations** <br/>
+  
+  🌱 I’m diving deeper into **System Design, AI Agents & Cloud Architecture** <br/>
+  
+  💡 Ask me about **Python, Node.js, React, Docker, AWS & Automation** <br/>
+  
   ⚡ Fun fact: *I post 10+ n8n templates daily!*
   
 </div>
@@ -45,11 +48,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iitian001/Iitian001/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iitian001/Iitian001/output/github-contribution-grid-snake.svg">
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Iitian001/Iitian001/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Iitian001/Iitian001/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
