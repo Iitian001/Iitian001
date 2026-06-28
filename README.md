@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shreyash!;+Welcome+to+my+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shreyash!;+Welcome+to+my+Profile!" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀 Full Stack Developer | 🧠 AI/Automation Enthusiast | ⚡ Open Source Contributor</h3>
@@ -48,7 +48,11 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Iitian001/Iitian001/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iitian001/Iitian001/output/snake-blue.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iitian001/Iitian001/output/snake.svg">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Iitian001/Iitian001/output/snake.svg" />
+  </picture>
   <br/><br/><br/>
 </div>
 
@@ -69,7 +73,8 @@
 
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Iitian001&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
+  <!-- The github-profile-trophy API is currently returning a 402 Error (down for everyone). Commenting it out so it doesn't show a broken image. -->
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=Iitian001&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" /> -->
 </div>
 
 <br/><br/>
