@@ -40,9 +40,9 @@ I enjoy building useful developer tools, AI-powered applications, automation wor
 ## Contact
 
 - GitHub: [litian001](https://github.com/litian001)
-- LinkedIn: Add your LinkedIn link
-- Kaggle: Add your Kaggle link
-- Instagram: Add your Instagram link
+- LinkedIn: [Shreyash](www.linkedin.com/in/shreyashautomation)
+- Kaggle: [kaggle](https://www.kaggle.com/shreyashautomation)
+- Instagram: [16_hreyash](https://www.instagram.com/16_hreyash)
 
 ---
 
