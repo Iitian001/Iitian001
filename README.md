@@ -1,99 +1,49 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shreyash!;+Welcome+to+my+Profile!" alt="Typing SVG" />
-</h1>
+# Hi, I'm Shreyash Mishra
 
-<h3 align="center">🚀 Full Stack Developer | 🧠 AI/Automation Enthusiast | ⚡ Open Source Contributor</h3>
+Full Stack Developer | AI & Automation Enthusiast | Open Source Contributor
 
-<br/>
+I enjoy building useful developer tools, AI-powered applications, automation workflows, and open-source projects.
 
-<div align="center">
-  
-  🔭 I’m currently building **open-source projects & n8n automations** <br/>
-  
-  🌱 I’m diving deeper into **System Design, AI Agents & Cloud Architecture** <br/>
-  
-  💡 Ask me about **Python, Node.js, React, Docker, AWS & Automation** <br/>
-  
-  ⚡ Fun fact: *I post 10+ n8n templates daily!*
-  
-</div>
+## About Me
 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/shreyashautomation" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.kaggle.com/shreyashautomation" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://instagram.com/16_hreyash" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/Iitian001" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
-  </a>
-</div>
+- Currently building open-source projects and n8n automations
+- Learning System Design, AI Agents, and Cloud Architecture
+- Interested in Full Stack Development, DevTools, and Generative AI
+- Open to collaboration, learning, and interesting project ideas
 
-<hr/>
+## Tech Stack
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwindcss,html,css,nodejs,python,django,go" />
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase,docker,aws,linux,git,github,vscode,figma" />
-</div>
+**Languages:** JavaScript, TypeScript, Python, Go
 
-<br/>
-<hr/>
+**Frontend:** React, Next.js, HTML, CSS, Tailwind CSS
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iitian001/Iitian001/output/snake-blue.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iitian001/Iitian001/output/snake.svg">
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Iitian001/Iitian001/output/snake.svg" />
-  </picture>
-  <br/><br/><br/>
-</div>
+**Backend:** Node.js, Django
 
-<hr/>
+**Databases:** PostgreSQL, MongoDB, Firebase
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Iitian001&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Iitian001&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iitian001&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+**Tools:** Git, GitHub, Docker, AWS, Linux, VS Code, Figma, n8n
 
-<br/><br/>
+## Current Focus
 
-<hr/>
+- AI agents and automation systems
+- Scalable full-stack applications
+- Open-source contribution
+- Cloud and system design
 
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
-<div align="center">
-  <!-- The github-profile-trophy API is currently returning a 402 Error (down for everyone). Commenting it out so it doesn't show a broken image. -->
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=Iitian001&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" /> -->
-</div>
+## Featured Work
 
-<br/><br/>
+- **ArtBloom** — AI-powered creative platform
+- **n8n Templates** — Reusable automation workflows
+- **Portfolio** — Personal developer portfolio
+- **AutoGPT Contributions** — Open-source AI experimentation
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iitian001&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
+## Contact
 
-<br/>
+- GitHub: [litian001](https://github.com/litian001)
+- LinkedIn: Add your LinkedIn link
+- Kaggle: Add your Kaggle link
+- Instagram: Add your Instagram link
 
-<div align="center">
-  <br>
-  <img alt="visitor badge" src="https://visitor-badge.laobi.icu/badge?page_id=Iitian001.Iitian001">
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Iitian001&color=blueviolet&style=flat-square&label=Profile+Views" />
-</div>
+---
 
-<br/>
-
-<div align="center">
-  <h3>💜 Open to Collaboration & Learning! 💜</h3>
-</div>
+Open to collaboration and learning.
