@@ -32,7 +32,7 @@ shreyash@github:~$ git log --merged --author=shreyash --upstream
 
 <!-- OSS-IMPACT:START -->
 <p align="center">
-  <a href="https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AIitian001%20-user%3AIitian001&type=pullrequests"><img alt="7 pull requests merged into 6 open source projects with 200.2k combined stars" src="https://img.shields.io/badge/7%20PRs%20merged%20into%206%20projects-200.2k%20combined%20%E2%AD%90-39FF14?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=39FF14" /></a>
+  <a href="https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AIitian001%20-user%3AIitian001&type=pullrequests"><img alt="8 pull requests merged into 6 open source projects with 200.2k combined stars" src="https://img.shields.io/badge/8%20PRs%20merged%20into%206%20projects-200.2k%20combined%20%E2%AD%90-39FF14?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=39FF14" /></a>
 </p>
 <!-- OSS-IMPACT:END -->
 
@@ -41,7 +41,7 @@ shreyash@github:~$ git log --merged --author=shreyash --upstream
 
 [![AutoGPT](https://img.shields.io/badge/AutoGPT-2%20merged-0d1117?style=flat-square&logo=github&logoColor=39FF14&labelColor=0d1117&color=1a1f29)](https://github.com/Significant-Gravitas/AutoGPT/pulls?q=is%3Apr%20is%3Amerged%20author%3AIitian001)
 [![react.dev](https://img.shields.io/badge/react.dev-1%20merged-0d1117?style=flat-square&logo=react&logoColor=39FF14&labelColor=0d1117&color=1a1f29)](https://github.com/reactjs/react.dev/pulls?q=is%3Apr%20is%3Amerged%20author%3AIitian001)
-[![mohitsoni48/TurboLLM](https://img.shields.io/badge/mohitsoni48%2FTurboLLM-1%20merged-0d1117?style=flat-square&logo=github&logoColor=39FF14&labelColor=0d1117&color=1a1f29)](https://github.com/mohitsoni48/TurboLLM/pulls?q=is%3Apr%20is%3Amerged%20author%3AIitian001)
+[![mohitsoni48/TurboLLM](https://img.shields.io/badge/mohitsoni48%2FTurboLLM-2%20merged-0d1117?style=flat-square&logo=github&logoColor=39FF14&labelColor=0d1117&color=1a1f29)](https://github.com/mohitsoni48/TurboLLM/pulls?q=is%3Apr%20is%3Amerged%20author%3AIitian001)
 [![sac](https://img.shields.io/badge/sac-1%20merged-0d1117?style=flat-square&logo=github&logoColor=39FF14&labelColor=0d1117&color=1a1f29)](https://github.com/students-alumni-cell-iitkgp/sac/pulls?q=is%3Apr%20is%3Amerged%20author%3AIitian001)
 [![php-sdk](https://img.shields.io/badge/php--sdk-1%20merged-0d1117?style=flat-square&logo=php&logoColor=39FF14&labelColor=0d1117&color=1a1f29)](https://github.com/hanzoai/php-sdk/pulls?q=is%3Apr%20is%3Amerged%20author%3AIitian001)
 [![shunya0/TurboLLM](https://img.shields.io/badge/shunya0%2FTurboLLM-1%20merged-0d1117?style=flat-square&logo=github&logoColor=39FF14&labelColor=0d1117&color=1a1f29)](https://github.com/shunya0/TurboLLM/pulls?q=is%3Apr%20is%3Amerged%20author%3AIitian001)
@@ -50,6 +50,7 @@ shreyash@github:~$ git log --merged --author=shreyash --upstream
 <!-- OSS-BADGES:END -->
 
 <!-- OSS-RECENT:START -->
+- `2026-11-17` **[mohitsoni48/TurboLLM](https://github.com/mohitsoni48/TurboLLM)** ★296 · [fix(web): take a chat's replayed reply in linear time](https://github.com/mohitsoni48/TurboLLM/pull/321)
 - `2026-11-17` **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** ★188.1k · [fix(integrations): group Parallel Search MCP with native Parallel provider](https://github.com/Significant-Gravitas/AutoGPT/pull/16572)
 - `2026-11-16` **[shunya0/TurboLLM](https://github.com/shunya0/TurboLLM)** · [test(web): count renders of a replayed burst through useChatSession](https://github.com/shunya0/TurboLLM/pull/5)
 - `2026-11-14` **[mohitsoni48/TurboLLM](https://github.com/mohitsoni48/TurboLLM)** ★296 · [fix(desktop): add a right-click menu to the desktop window](https://github.com/mohitsoni48/TurboLLM/pull/310)
