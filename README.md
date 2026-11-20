@@ -32,14 +32,14 @@ shreyash@github:~$ git log --merged --author=shreyash --upstream
 
 <!-- OSS-IMPACT:START -->
 <p align="center">
-  <a href="https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AIitian001%20-user%3AIitian001&type=pullrequests"><img alt="8 pull requests merged into 6 open source projects with 200.3k combined stars" src="https://img.shields.io/badge/8%20PRs%20merged%20into%206%20projects-200.3k%20combined%20%E2%AD%90-39FF14?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=39FF14" /></a>
+  <a href="https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AIitian001%20-user%3AIitian001&type=pullrequests"><img alt="9 pull requests merged into 6 open source projects with 200.3k combined stars" src="https://img.shields.io/badge/9%20PRs%20merged%20into%206%20projects-200.3k%20combined%20%E2%AD%90-39FF14?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=39FF14" /></a>
 </p>
 <!-- OSS-IMPACT:END -->
 
 <!-- OSS-BADGES:START -->
 <p align="center">
 
-[![AutoGPT](https://img.shields.io/badge/AutoGPT-2%20merged-0d1117?style=flat-square&logo=github&logoColor=39FF14&labelColor=0d1117&color=1a1f29)](https://github.com/Significant-Gravitas/AutoGPT/pulls?q=is%3Apr%20is%3Amerged%20author%3AIitian001)
+[![AutoGPT](https://img.shields.io/badge/AutoGPT-3%20merged-0d1117?style=flat-square&logo=github&logoColor=39FF14&labelColor=0d1117&color=1a1f29)](https://github.com/Significant-Gravitas/AutoGPT/pulls?q=is%3Apr%20is%3Amerged%20author%3AIitian001)
 [![react.dev](https://img.shields.io/badge/react.dev-1%20merged-0d1117?style=flat-square&logo=react&logoColor=39FF14&labelColor=0d1117&color=1a1f29)](https://github.com/reactjs/react.dev/pulls?q=is%3Apr%20is%3Amerged%20author%3AIitian001)
 [![mohitsoni48/TurboLLM](https://img.shields.io/badge/mohitsoni48%2FTurboLLM-2%20merged-0d1117?style=flat-square&logo=github&logoColor=39FF14&labelColor=0d1117&color=1a1f29)](https://github.com/mohitsoni48/TurboLLM/pulls?q=is%3Apr%20is%3Amerged%20author%3AIitian001)
 [![sac](https://img.shields.io/badge/sac-1%20merged-0d1117?style=flat-square&logo=github&logoColor=39FF14&labelColor=0d1117&color=1a1f29)](https://github.com/students-alumni-cell-iitkgp/sac/pulls?q=is%3Apr%20is%3Amerged%20author%3AIitian001)
@@ -50,14 +50,14 @@ shreyash@github:~$ git log --merged --author=shreyash --upstream
 <!-- OSS-BADGES:END -->
 
 <!-- OSS-RECENT:START -->
-- `2026-11-17` **[mohitsoni48/TurboLLM](https://github.com/mohitsoni48/TurboLLM)** ★297 · [fix(web): take a chat's replayed reply in linear time](https://github.com/mohitsoni48/TurboLLM/pull/321)
+- `2026-11-20` **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** ★188.1k · [fix(backend): keep the live Marketplace version when an older one is rejected](https://github.com/Significant-Gravitas/AutoGPT/pull/16881)
+- `2026-11-17` **[mohitsoni48/TurboLLM](https://github.com/mohitsoni48/TurboLLM)** ★296 · [fix(web): take a chat's replayed reply in linear time](https://github.com/mohitsoni48/TurboLLM/pull/321)
 - `2026-11-17` **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** ★188.1k · [fix(integrations): group Parallel Search MCP with native Parallel provider](https://github.com/Significant-Gravitas/AutoGPT/pull/16572)
 - `2026-11-16` **[shunya0/TurboLLM](https://github.com/shunya0/TurboLLM)** · [test(web): count renders of a replayed burst through useChatSession](https://github.com/shunya0/TurboLLM/pull/5)
-- `2026-11-14` **[mohitsoni48/TurboLLM](https://github.com/mohitsoni48/TurboLLM)** ★297 · [fix(desktop): add a right-click menu to the desktop window](https://github.com/mohitsoni48/TurboLLM/pull/310)
+- `2026-11-14` **[mohitsoni48/TurboLLM](https://github.com/mohitsoni48/TurboLLM)** ★296 · [fix(desktop): add a right-click menu to the desktop window](https://github.com/mohitsoni48/TurboLLM/pull/310)
 - `2026-11-13` **[php-sdk](https://github.com/hanzoai/php-sdk)** · [chore(composer): drop redundant ext-json requirement](https://github.com/hanzoai/php-sdk/pull/2)
 - `2026-11-03` **[react.dev](https://github.com/reactjs/react.dev)** ★11.8k · [docs: add useOptimistic to Built-in React Hooks overview](https://github.com/reactjs/react.dev/pull/8625)
 - `2026-11-02` **[sac](https://github.com/students-alumni-cell-iitkgp/sac)** · [Add Head Team 2026 using existing team cards](https://github.com/students-alumni-cell-iitkgp/sac/pull/598)
-- `2026-07-23` **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** ★188.1k · [feat(platform/library): Add 'Most Recently Ran' sorting](https://github.com/Significant-Gravitas/AutoGPT/pull/13666)
 <!-- OSS-RECENT:END -->
 
 <sub>↻ refreshed daily by <a href="./.github/workflows/oss-contributions.yml">a GitHub Action</a> from merged pull requests</sub>
