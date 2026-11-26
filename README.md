@@ -32,7 +32,7 @@ shreyash@github:~$ git log --merged --author=shreyash --upstream
 
 <!-- OSS-IMPACT:START -->
 <p align="center">
-  <a href="https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AIitian001%20-user%3AIitian001&type=pullrequests"><img alt="11 pull requests merged into 6 open source projects with 200.3k combined stars" src="https://img.shields.io/badge/11%20PRs%20merged%20into%206%20projects-200.3k%20combined%20%E2%AD%90-39FF14?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=39FF14" /></a>
+  <a href="https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AIitian001%20-user%3AIitian001&type=pullrequests"><img alt="11 pull requests merged into 6 open source projects with 200.4k combined stars" src="https://img.shields.io/badge/11%20PRs%20merged%20into%206%20projects-200.4k%20combined%20%E2%AD%90-39FF14?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=39FF14" /></a>
 </p>
 <!-- OSS-IMPACT:END -->
 
